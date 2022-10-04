@@ -1,5 +1,9 @@
 ## Assignments
 
+#cloning
+
+git clone <Link>
+
 How to use this repository
 
 - Fork the Repository
