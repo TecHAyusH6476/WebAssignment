@@ -3,7 +3,7 @@
 This is your assignment 2, where you have to make your form to take personal detail of user
 
 ![form](./Images/form.png)
-
+https://techayush6476.github.io/WebAssignment/2-HTML/202-HTML-FORM/Form/index.html
 ## Points to Remember
 
 - Create index.html file in `./Form` folder
