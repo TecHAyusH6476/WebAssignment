@@ -13,7 +13,7 @@
 - Check out your commits using git log
 - Create a github repository with your own name
 - Push your code to same repository
-- Host the repository on github pages and attach the link here
+- code link - https://github.com/TecHAyusH6476/WebAssignment/edit/main/0-Git/GIT-002-GIT-PRACTICE/
 
 
 
