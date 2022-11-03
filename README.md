@@ -18,7 +18,7 @@ How to use this repository
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
 | 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |    This is link         |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |   <a href="https://techayush6476.github.io/Todo_App/">Live Site </a>       |
 | 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |   This is the link          |
 
 # JS Basics
