@@ -8,7 +8,7 @@
 ```
 
 Your job is output what ever is typed in the input into the p tag.
-![](./image/ex-1.png)
+![image](./image/ex-1.png)
 
 <hr>
 
